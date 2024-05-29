@@ -35,6 +35,7 @@ public class generic{
        
         Boolean a = arka.getT1();
         System.out.println(a);
+        System.out.println("hello");
 
         
     }
