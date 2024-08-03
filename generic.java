@@ -31,7 +31,7 @@ public class generic{
 
     public static void main(String[] args) {
 
-        myGeneric<Boolean> arka = new myGeneric(5,true);
+        myGeneric<Boolean> arka = new myGeneric<>(5,true);
        
         Boolean a = arka.getT1();
         System.out.println(a);
