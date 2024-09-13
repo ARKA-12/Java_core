@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AllbasicJava/AllbasicJava.iml" filepath="$PROJECT_DIR$/AllbasicJava/AllbasicJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/newjava.iml" filepath="$PROJECT_DIR$/.idea/newjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newjava1/newjava1.iml" filepath="$PROJECT_DIR$/newjava1/newjava1.iml" />
+    </modules>
+  </component>
+</project>

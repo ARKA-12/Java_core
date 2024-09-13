@@ -7,12 +7,13 @@ public class Array2d {
         int b = 3;
         int i=0;
         int j=0;
+        
 
         outerloop:
         for(i=0;i< a.length;i++){
             System.out.println("i= " +i);
             
-            innerloop:
+            // innerloop:
             for(j=0;j<a[i].length;j++){
                 System.out.println("j= "+j);
                 if(a[i][j] == b){
@@ -24,6 +25,7 @@ public class Array2d {
 
         System.out.println("i = " +i+"  j="+j);
 
+        
     
         
     }
